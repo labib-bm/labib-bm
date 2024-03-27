@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @labib-bm
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Software Engineering (Java)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
